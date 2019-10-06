@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  Weather.cpp
+d:\程序设计作业\weatherforecast\weatherforecast\weather.cpp(102): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\程序设计作业\weatherforecast\weatherforecast\weather.cpp(103): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\程序设计作业\weatherforecast\weatherforecast\weather.cpp(108): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\程序设计作业\weatherforecast\weatherforecast\weather.cpp(109): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\程序设计作业\weatherforecast\weatherforecast\weather.cpp(116): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\程序设计作业\weatherforecast\weatherforecast\weather.cpp(117): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\程序设计作业\weatherforecast\weatherforecast\weather.cpp(120): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\程序设计作业\weatherforecast\weatherforecast\weather.cpp(121): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  WeatherForecast.cpp
+  WeatherForecastDlg.cpp
+  正在生成代码...
+  WeatherForecast.vcxproj -> D:\程序设计作业\WeatherForecast\Debug\WeatherForecast.exe

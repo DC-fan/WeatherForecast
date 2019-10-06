@@ -1,0 +1,30 @@
+﻿  stdafx.cpp
+  Weather.cpp
+d:\程序设计作业\weatherforecast\weatherforecast\weather.cpp(102): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\程序设计作业\weatherforecast\weatherforecast\weather.cpp(103): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\程序设计作业\weatherforecast\weatherforecast\weather.cpp(108): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\程序设计作业\weatherforecast\weatherforecast\weather.cpp(109): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\程序设计作业\weatherforecast\weatherforecast\weather.cpp(116): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\程序设计作业\weatherforecast\weatherforecast\weather.cpp(117): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\程序设计作业\weatherforecast\weatherforecast\weather.cpp(120): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\程序设计作业\weatherforecast\weatherforecast\weather.cpp(121): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  WeatherForecast.cpp
+  WeatherForecastDlg.cpp
+  正在生成代码...
+WeatherForecastDlg.obj : error LNK2019: 无法解析的外部符号 __imp_PyObject_GetAttrString，该符号在函数 "public: void __cdecl CWeatherForecastDlg::OnBnClickedButton1(void)" (?OnBnClickedButton1@CWeatherForecastDlg@@QEAAXXZ) 中被引用
+WeatherForecastDlg.obj : error LNK2019: 无法解析的外部符号 __imp__Py_NegativeRefcount，该符号在函数 "public: void __cdecl CWeatherForecastDlg::OnBnClickedButton1(void)" (?OnBnClickedButton1@CWeatherForecastDlg@@QEAAXXZ) 中被引用
+WeatherForecastDlg.obj : error LNK2019: 无法解析的外部符号 __imp__Py_Dealloc，该符号在函数 "public: void __cdecl CWeatherForecastDlg::OnBnClickedButton1(void)" (?OnBnClickedButton1@CWeatherForecastDlg@@QEAAXXZ) 中被引用
+WeatherForecastDlg.obj : error LNK2019: 无法解析的外部符号 __imp_PyTuple_New，该符号在函数 "public: void __cdecl CWeatherForecastDlg::OnBnClickedButton1(void)" (?OnBnClickedButton1@CWeatherForecastDlg@@QEAAXXZ) 中被引用
+WeatherForecastDlg.obj : error LNK2019: 无法解析的外部符号 __imp_PyTuple_SetItem，该符号在函数 "public: void __cdecl CWeatherForecastDlg::OnBnClickedButton1(void)" (?OnBnClickedButton1@CWeatherForecastDlg@@QEAAXXZ) 中被引用
+WeatherForecastDlg.obj : error LNK2019: 无法解析的外部符号 __imp_PyList_Size，该符号在函数 "public: void __cdecl CWeatherForecastDlg::OnBnClickedButton1(void)" (?OnBnClickedButton1@CWeatherForecastDlg@@QEAAXXZ) 中被引用
+WeatherForecastDlg.obj : error LNK2019: 无法解析的外部符号 __imp_PyList_GetItem，该符号在函数 "public: void __cdecl CWeatherForecastDlg::OnBnClickedButton1(void)" (?OnBnClickedButton1@CWeatherForecastDlg@@QEAAXXZ) 中被引用
+WeatherForecastDlg.obj : error LNK2019: 无法解析的外部符号 __imp_PyArg_Parse，该符号在函数 "public: void __cdecl CWeatherForecastDlg::OnBnClickedButton1(void)" (?OnBnClickedButton1@CWeatherForecastDlg@@QEAAXXZ) 中被引用
+WeatherForecastDlg.obj : error LNK2019: 无法解析的外部符号 __imp_Py_BuildValue，该符号在函数 "public: void __cdecl CWeatherForecastDlg::OnBnClickedButton1(void)" (?OnBnClickedButton1@CWeatherForecastDlg@@QEAAXXZ) 中被引用
+WeatherForecastDlg.obj : error LNK2019: 无法解析的外部符号 __imp_PyRun_SimpleStringFlags，该符号在函数 "public: void __cdecl CWeatherForecastDlg::OnBnClickedButton1(void)" (?OnBnClickedButton1@CWeatherForecastDlg@@QEAAXXZ) 中被引用
+WeatherForecastDlg.obj : error LNK2019: 无法解析的外部符号 __imp_Py_Initialize，该符号在函数 "public: void __cdecl CWeatherForecastDlg::OnBnClickedButton1(void)" (?OnBnClickedButton1@CWeatherForecastDlg@@QEAAXXZ) 中被引用
+WeatherForecastDlg.obj : error LNK2019: 无法解析的外部符号 __imp_Py_Finalize，该符号在函数 "public: void __cdecl CWeatherForecastDlg::OnBnClickedButton1(void)" (?OnBnClickedButton1@CWeatherForecastDlg@@QEAAXXZ) 中被引用
+WeatherForecastDlg.obj : error LNK2019: 无法解析的外部符号 __imp_PyImport_ImportModule，该符号在函数 "public: void __cdecl CWeatherForecastDlg::OnBnClickedButton1(void)" (?OnBnClickedButton1@CWeatherForecastDlg@@QEAAXXZ) 中被引用
+WeatherForecastDlg.obj : error LNK2019: 无法解析的外部符号 __imp_PyObject_CallObject，该符号在函数 "public: void __cdecl CWeatherForecastDlg::OnBnClickedButton1(void)" (?OnBnClickedButton1@CWeatherForecastDlg@@QEAAXXZ) 中被引用
+WeatherForecastDlg.obj : error LNK2001: 无法解析的外部符号 __imp__Py_RefTotal
+libs\python37_d.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+D:\程序设计作业\WeatherForecast\x64\Debug\WeatherForecast.exe : fatal error LNK1120: 15 个无法解析的外部命令
